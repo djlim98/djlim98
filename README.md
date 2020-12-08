@@ -6,7 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djlim98&layout=compact)](https://github.com/djlim98)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=임동진)](https://solved.ac/ehdwlsdudwo1)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdwlsdudwo1)](https://solved.ac/ehdwlsdudwo1)
 
 <!--
 **djlim98/djlim98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&show_icons=true&theme=flag-india)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=djlim98&count_private=true&show_icons=true&theme=flag-india)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdwlsdudwo1)](https://solved.ac/ehdwlsdudwo1)
